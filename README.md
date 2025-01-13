@@ -1,1 +1,1 @@
-# notes-obsidian
+# Notas de mis estudios en Obsidian
