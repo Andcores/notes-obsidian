@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: zmrz5-ezeol
+created: 2024-08-05T18:46:48-05:00

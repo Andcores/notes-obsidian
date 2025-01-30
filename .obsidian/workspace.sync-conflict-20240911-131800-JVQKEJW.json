@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "6201d65bc7eca388",
+    "type": "split",
+    "children": [
+      {
+        "id": "293c0c0bc9cdc0b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fdc757147bcecc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hack4io/Comandos linux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bab3ecdf5b70e00",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ea94120bdb5c1e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4f395f5726a6ca3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7459e3b0c6f9376c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8b0db4b87862527",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.51103591918945,
+    "collapsed": true
+  },
+  "right": {
+    "id": "544ea0bf2511cb41",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ffd06dd236475b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9caa2701fd8779f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hack4io/Comandos linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0d32c5e2f86752a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hack4io/Comandos linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "360d7fe9912ae22c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24d2d764349a6d9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hack4io/Comandos linux.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2fdc757147bcecc3",
+  "lastOpenFiles": [
+    "Pasted image 20240909133813.png",
+    "Pasted image 20240909133510.png",
+    "Pasted image 20240909133507.png",
+    "Pasted image 20240909133242.png",
+    "Pasted image 20240909133016.png",
+    "Pasted image 20240909132928.png",
+    "Hack4io/Comandos linux.md",
+    "Pasted image 20240909130805.png",
+    "Pasted image 20240909130757.png",
+    "Pasted image 20240909130751.png",
+    "Cybersecurity/Notes.md",
+    "Hack4io",
+    "Cybersecurity/Modulo 4/OS/Operative systems.md",
+    "Cybersecurity/Modulo 4/Permisos Linux.md",
+    "Cybersecurity/Modulo 4/Databases and SQL.md",
+    "Cybersecurity/Modulo 4/Shell linux.md",
+    "Cybersecurity/Modulo 4/Usuarios.md",
+    "Cybersecurity/Networks and Network Security/Modulo 1/Componentes de la capa de red de comunicación.md",
+    "Cybersecurity/Networks and Network Security/Modulo 2/Protocolos VPN Wireguard e IPSec.md",
+    "Cybersecurity/Networks and Network Security/Modulo 2/Redes virtuales y privacidad.md",
+    "Cybersecurity/Networks and Network Security/Modulo 2/División en subredes y CIDR.md",
+    "Cybersecurity/Networks and Network Security/Modulo 1/Address IP - communication network.md",
+    "Cybersecurity/Networks and Network Security/Modulo 1/CSP.md",
+    "Cybersecurity/Networks and Network Security/Modulo 1/Network Comunication.md",
+    "Cybersecurity/Networks and Network Security/Modulo 1/Networks.md",
+    "Cybersecurity/Networks and Network Security/Modulo 1/OSI.md",
+    "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
+    "Cybersecurity/Networks and Network Security/Modulo 4/Cryptography and cloud security.md",
+    "Cybersecurity/Networks and Network Security/Modulo 4/Cloud Hardening.md",
+    "Cybersecurity/Networks and Network Security/Modulo 4/Security network Apps.md",
+    "IMGS/Pasted image 20240905220727.png",
+    "IMGS/Pasted image 20240905224501.png",
+    "Cybersecurity/Networks and Network Security/Modulo 4/Brute force attacks and OS hardening.md",
+    "Cybersecurity/Networks and Network Security/Modulo 4/Untitled",
+    "Curso Gratutito/Ethical Hacking.md",
+    "Untitled.canvas",
+    "Cybersecurity/Networks and Network Security/Modulo 3/Sniffing.md",
+    "Cybersecurity/Networks and Network Security/Modulo 3/Leer LOGs de TCPdump.md",
+    "Cybersecurity/Networks and Network Security/Modulo 3/DDO - DDOS.md",
+    "Curso Gratutito",
+    "Cybersecurity/Untitled",
+    "Cybersecurity/Networks and Network Security/Modulo 4",
+    "Cybersecurity/Networks and Network Security/Modulo 3",
+    "Cybersecurity/Networks and Network Security/Modulo 2",
+    "Cybersecurity/Networks and Network Security/Modulo 1",
+    "Cybersecurity/Networks and Network Security",
+    "Cybersecurity/Play it safe MSR/module 4",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

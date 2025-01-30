@@ -1,0 +1,3 @@
+deals with designing, implementing, and maintaining secure systems and networks. This involves selecting and configuring appropriate security tools and technologies, such as firewalls and intrusion detection systems, to protect against threats. It also includes establishing secure configurations and implementing security best practices throughout the organization's technology infrastructure.
+
+[[the eight CISSP security domains]]

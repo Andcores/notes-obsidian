@@ -1,0 +1,11 @@
+**Sniffing de Paquetes**: Es la práctica de capturar y analizar datos en una red. En redes privadas, las tarjetas de interfaz de red (NIC) de los dispositivos aceptan paquetes dirigidos a sus direcciones MAC. Sin embargo, las NIC pueden configurarse en modo promiscuo para capturar todo el tráfico de la red, lo que permite a actores maliciosos usar herramientas como Wireshark para recopilar datos y realizar ataques como la suplantación de IP.
+
+**Suplantación de IP**: Después de olfatear paquetes, un atacante puede suplantar las direcciones IP y MAC de dispositivos autorizados para realizar un ataque. Los cortafuegos pueden mitigar estos ataques rechazando paquetes no autorizados.
+
+**Ataque en Ruta**: En este ataque, un hacker intercepta la comunicación entre dispositivos de confianza para obtener información valiosa como credenciales. También puede manipular respuestas DNS para redirigir a los usuarios a sitios maliciosos. La encriptación de datos en tránsito, como TLS, es una defensa clave contra este tipo de ataque.
+
+**Ataque Smurf**: Combina suplantación de IP con un ataque de denegación de servicio (DoS) inundando la red con tráfico innecesario. El uso de firewalls avanzados que detecten tráfico anómalo es crucial para defenderse contra estos ataques.
+
+**Ataque DoS**: Este ataque impide que un sistema realice actividades legítimas al inundarlo con tráfico falso, lo que puede llevar al bloqueo del servidor. Los atacantes utilizan paquetes IP falsificados hasta que el servidor colapsa. Se recomienda aplicar una estrategia de defensa en profundidad, como el uso de encriptación estándar, para mitigar estos ataques en múltiples niveles.
+
+**Consejo profesional**: Recuerde el principio de defensa en profundidad. No existe una estrategia perfecta para detener cada tipo de ataque. Puede estratificar su defensa utilizando múltiples estrategias. En este caso, el uso de la encriptación estándar del sector reforzará su Seguridad y le ayudará a defenderse de los ataques DoS en más de un nivel.
