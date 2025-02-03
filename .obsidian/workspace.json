@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intrusion detection and prevention systems.md",
+                "file": "Personal/Ikigai....md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intrusion detection and prevention systems"
+              "title": "Ikigai..."
             }
           }
         ],
@@ -193,10 +193,10 @@
   },
   "active": "df70b858a3cc4e37",
   "lastOpenFiles": [
+    "Intrusion detection and prevention systems.md",
     "README.md",
     "Defensa en la red mintic/Firewall.md",
     "IMGS/Pasted image 20250129161019.png",
-    "Intrusion detection and prevention systems.md",
     "Hack4io/Comandos linux.md",
     "Defensa en la red mintic/Cracking Tool password.md",
     "Defensa en la red mintic/Modulo 1/Company policies/Security police.md",
