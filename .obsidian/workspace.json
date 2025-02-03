@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firewall.md",
+                "file": "Intrusion detection and prevention systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firewall"
+              "title": "Intrusion detection and prevention systems"
             }
           }
         ],
@@ -193,10 +193,19 @@
   },
   "active": "df70b858a3cc4e37",
   "lastOpenFiles": [
+    "Defensa en la red mintic/Firewall.md",
+    "IMGS/Pasted image 20250129161019.png",
     "Intrusion detection and prevention systems.md",
-    "Pasted image 20250129161028.png",
-    "Pasted image 20250129161019.png",
-    "Firewall.md",
+    "Hack4io/Comandos linux.md",
+    "Defensa en la red mintic/Cracking Tool password.md",
+    "Defensa en la red mintic/Modulo 1/Company policies/Security police.md",
+    "Defensa en la red mintic/Modulo 1/Company policies/Regulatory and Standards Compliance.md",
+    "Defensa en la red mintic/Modulo 1/Quizz Module 1.md",
+    "Defensa en la red mintic/Modulo 2/Application development.md",
+    "Defensa en la red mintic/Modulo 2/Network tightening   Services and protocols.md",
+    "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
+    "Defensa en la red mintic/Modulo 2/Physical security.md",
+    "IMGS/Pasted image 20250129161028.png",
     "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
     "Personal/Ikigai....md",
     "IMGS/Pasted image 20250127210455.png",
@@ -205,16 +214,11 @@
     "Cybersecurity/Networks and Network Security/Modulo 1/Componentes de la capa de red de comunicación.md",
     "Cybersecurity/Networks and Network Security/Modulo 1/CSP.md",
     "Cybersecurity/Networks and Network Security/Modulo 1/Address IP - communication network.md",
-    "Cracking Tool password.md",
-    "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
     "IMGS/Pasted image 20250127231557.png",
     "IMGS/Pasted image 20250127231056.png",
-    "Defensa en la red mintic/Modulo 2/Physical security.md",
     "IMGS/Pasted image 20250124213738.png",
     "IMGS/Pasted image 20250127204330.png",
     "IMGS/Pasted image 20250127202415.png",
-    "Defensa en la red mintic/Modulo 2/Network tightening   Services and protocols.md",
-    "Defensa en la red mintic/Modulo 2/Application development.md",
     "Defensa en la red mintic/Modulo 2/Biometrics.md",
     "Defensa en la red mintic/Modulo 2/Identification cards and access logs.md",
     "Defensa en la red mintic/Modulo 2/Monitoring.md",
@@ -224,10 +228,6 @@
     "Defensa en la red mintic/Modulo 1/Defensa en profundidad/Asset Standardization.md",
     "Defensa en la red mintic/Modulo 1/Defensa en profundidad/Assets, vulnerabilities and threats.md",
     "Defensa en la red mintic/Modulo 1/Defensa en profundidad/Defense in depth strategies.md",
-    "Defensa en la red mintic/Modulo 1/Defensa en profundidad/assets identify.md",
-    "Defensa en la red mintic/Modulo 1/Defensa en profundidad/Assets Classification.md",
-    "Defensa en la red mintic/Modulo 1/Company policies/Security police.md",
-    "Defensa en la red mintic/Modulo 1/Company policies/Regulatory and Standards Compliance.md",
     "Defensa en la red mintic/Modulo 2"
   ]
 }

@@ -1,4 +1,4 @@
-Este se encarga de controlar o filtrar que comunicaicones se permiten dentro y cuales se permiten fuera de un dispositivo o red.
+Este se encarga de controlar o filtrar que comunicaciones se permiten dentro y cuales se permiten fuera de un dispositivo o red.
 
 ### Firewall capa de red 
 Filtra comunicaciones según las direcciones IP de origen y destino.
