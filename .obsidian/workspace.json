@@ -4,56 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9017d34fcbea796c",
+        "id": "5f9daac323a19fae",
         "type": "tabs",
         "children": [
           {
-            "id": "caa1fb21ad4a8a92",
+            "id": "3bb8168881a27105",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "IMGS/Pasted image 20250203225137.png"
               },
-              "icon": "lucide-file",
-              "title": "TCP-IP"
-            }
-          },
-          {
-            "id": "88ba5aab36c6429c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firewall.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Firewall"
-            }
-          },
-          {
-            "id": "df70b858a3cc4e37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Ikigai....md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ikigai..."
+              "icon": "lucide-image",
+              "title": "Pasted image 20250203225137"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -191,44 +158,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df70b858a3cc4e37",
+  "active": "eb8ebe82018e27b5",
   "lastOpenFiles": [
-    "Intrusion detection and prevention systems.md",
+    "Defensa en la red mintic/Laboratory Module 2.md",
+    "IMGS/Pasted image 20250203232833.png",
+    "IMGS/Pasted image 20250203232603.png",
+    "IMGS/Pasted image 20250203232532.png",
+    "IMGS/Pasted image 20250203232433.png",
+    "IMGS/Pasted image 20250203232342.png",
+    "IMGS/Pasted image 20250203232257.png",
+    "IMGS/Pasted image 20250203232142.png",
+    "IMGS/Pasted image 20250203232112.png",
+    "IMGS/Pasted image 20250203231938.png",
+    "IMGS/Pasted image 20250203231859.png",
+    "Labs/safety configuration and protection of the wireless router.md",
+    "Defensa en la red mintic/Modulo 2/Untitled.md",
+    "Labs",
+    "Defensa en la red mintic/Modulo 2/Physical security.md",
+    "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
+    "Hack4io/Cracking Tool password.md",
+    "Tools",
     "README.md",
+    "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
+    "Defensa en la red mintic/Modulo 2/Intrusion detection and prevention systems.md",
+    "Personal/Ikigai....md",
     "Defensa en la red mintic/Firewall.md",
-    "IMGS/Pasted image 20250129161019.png",
     "Hack4io/Comandos linux.md",
-    "Defensa en la red mintic/Cracking Tool password.md",
     "Defensa en la red mintic/Modulo 1/Company policies/Security police.md",
     "Defensa en la red mintic/Modulo 1/Company policies/Regulatory and Standards Compliance.md",
     "Defensa en la red mintic/Modulo 1/Quizz Module 1.md",
     "Defensa en la red mintic/Modulo 2/Application development.md",
     "Defensa en la red mintic/Modulo 2/Network tightening   Services and protocols.md",
-    "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
-    "Defensa en la red mintic/Modulo 2/Physical security.md",
-    "IMGS/Pasted image 20250129161028.png",
-    "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
-    "Personal/Ikigai....md",
-    "IMGS/Pasted image 20250127210455.png",
     "Cybersecurity/Networks and Network Security/Modulo 1/OSI.md",
     "Cybersecurity/Networks and Network Security/Modulo 1/Network Comunication.md",
     "Cybersecurity/Networks and Network Security/Modulo 1/Componentes de la capa de red de comunicación.md",
     "Cybersecurity/Networks and Network Security/Modulo 1/CSP.md",
     "Cybersecurity/Networks and Network Security/Modulo 1/Address IP - communication network.md",
-    "IMGS/Pasted image 20250127231557.png",
-    "IMGS/Pasted image 20250127231056.png",
-    "IMGS/Pasted image 20250124213738.png",
-    "IMGS/Pasted image 20250127204330.png",
-    "IMGS/Pasted image 20250127202415.png",
     "Defensa en la red mintic/Modulo 2/Biometrics.md",
     "Defensa en la red mintic/Modulo 2/Identification cards and access logs.md",
     "Defensa en la red mintic/Modulo 2/Monitoring.md",
-    "IMGS/Pasted image 20250127000735.png",
-    "To Do list.md",
-    "IMGS/Pasted image 20250116151434.png",
-    "Defensa en la red mintic/Modulo 1/Defensa en profundidad/Asset Standardization.md",
-    "Defensa en la red mintic/Modulo 1/Defensa en profundidad/Assets, vulnerabilities and threats.md",
-    "Defensa en la red mintic/Modulo 1/Defensa en profundidad/Defense in depth strategies.md",
     "Defensa en la red mintic/Modulo 2"
   ]
 }
