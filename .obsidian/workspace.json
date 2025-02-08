@@ -11,12 +11,24 @@
             "id": "3bb8168881a27105",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMGS/Pasted image 20250203225137.png"
+                "file": "Defensa en la red mintic/Modulo 2/Protection of mobile and wireless devices.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250203225137"
+              "icon": "lucide-file",
+              "title": "Protection of mobile and wireless devices"
             }
           }
         ]
@@ -158,19 +170,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb8ebe82018e27b5",
+  "active": "3bb8168881a27105",
   "lastOpenFiles": [
+    "Pasted image 20250207221021.png",
+    "Defensa en la red mintic/Modulo 2/Intrusion detection and prevention systems.md",
+    "Defensa en la red mintic/Modulo 2/Protection of mobile and wireless devices.md",
+    "Defensa en la red mintic/Modulo 2/Application development.md",
     "Defensa en la red mintic/Laboratory Module 2.md",
-    "IMGS/Pasted image 20250203232833.png",
-    "IMGS/Pasted image 20250203232603.png",
-    "IMGS/Pasted image 20250203232532.png",
-    "IMGS/Pasted image 20250203232433.png",
-    "IMGS/Pasted image 20250203232342.png",
-    "IMGS/Pasted image 20250203232257.png",
-    "IMGS/Pasted image 20250203232142.png",
-    "IMGS/Pasted image 20250203232112.png",
-    "IMGS/Pasted image 20250203231938.png",
-    "IMGS/Pasted image 20250203231859.png",
+    "To Do list.md",
+    "README.md",
+    "IMGS/Pasted image 20250207200233.png",
+    "IMGS/Pasted image 20250207203748.png",
+    "IMGS/Pasted image 20250207203706.png",
+    "IMGS/Pasted image 20250207202758.png",
+    "IMGS/Pasted image 20250207202639.png",
+    "IMGS/Pasted image 20250207201847.png",
+    "IMGS/Pasted image 20250207201843.png",
+    "IMGS/Pasted image 20250207201833.png",
+    "IMGS/Pasted image 20250207201806.png",
+    "IMGS/Pasted image 20250207201616.png",
     "Labs/safety configuration and protection of the wireless router.md",
     "Defensa en la red mintic/Modulo 2/Untitled.md",
     "Labs",
@@ -178,16 +196,13 @@
     "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
     "Hack4io/Cracking Tool password.md",
     "Tools",
-    "README.md",
     "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
-    "Defensa en la red mintic/Modulo 2/Intrusion detection and prevention systems.md",
     "Personal/Ikigai....md",
     "Defensa en la red mintic/Firewall.md",
     "Hack4io/Comandos linux.md",
     "Defensa en la red mintic/Modulo 1/Company policies/Security police.md",
     "Defensa en la red mintic/Modulo 1/Company policies/Regulatory and Standards Compliance.md",
     "Defensa en la red mintic/Modulo 1/Quizz Module 1.md",
-    "Defensa en la red mintic/Modulo 2/Application development.md",
     "Defensa en la red mintic/Modulo 2/Network tightening   Services and protocols.md",
     "Cybersecurity/Networks and Network Security/Modulo 1/OSI.md",
     "Cybersecurity/Networks and Network Security/Modulo 1/Network Comunication.md",
@@ -195,8 +210,6 @@
     "Cybersecurity/Networks and Network Security/Modulo 1/CSP.md",
     "Cybersecurity/Networks and Network Security/Modulo 1/Address IP - communication network.md",
     "Defensa en la red mintic/Modulo 2/Biometrics.md",
-    "Defensa en la red mintic/Modulo 2/Identification cards and access logs.md",
-    "Defensa en la red mintic/Modulo 2/Monitoring.md",
     "Defensa en la red mintic/Modulo 2"
   ]
 }
