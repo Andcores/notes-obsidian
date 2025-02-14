@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defensa en la red mintic/Modulo 2/Protection of mobile and wireless devices.md",
+                "file": "Defensa en la red mintic/Modulo 2/Resilience of cybersecurity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Protection of mobile and wireless devices"
+              "title": "Resilience of cybersecurity"
             }
           }
         ]
@@ -172,9 +172,9 @@
   },
   "active": "3bb8168881a27105",
   "lastOpenFiles": [
-    "Pasted image 20250207221021.png",
-    "Defensa en la red mintic/Modulo 2/Intrusion detection and prevention systems.md",
     "Defensa en la red mintic/Modulo 2/Protection of mobile and wireless devices.md",
+    "IMGS/Pasted image 20250207221021.png",
+    "Defensa en la red mintic/Modulo 2/Intrusion detection and prevention systems.md",
     "Defensa en la red mintic/Modulo 2/Application development.md",
     "Defensa en la red mintic/Laboratory Module 2.md",
     "To Do list.md",
@@ -188,9 +188,8 @@
     "IMGS/Pasted image 20250207201843.png",
     "IMGS/Pasted image 20250207201833.png",
     "IMGS/Pasted image 20250207201806.png",
-    "IMGS/Pasted image 20250207201616.png",
     "Labs/safety configuration and protection of the wireless router.md",
-    "Defensa en la red mintic/Modulo 2/Untitled.md",
+    "Defensa en la red mintic/Modulo 2/Resilience of cybersecurity.md",
     "Labs",
     "Defensa en la red mintic/Modulo 2/Physical security.md",
     "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
