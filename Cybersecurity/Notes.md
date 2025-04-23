@@ -1,3 +1,0 @@
-I was monitor of a class at the university where I had access to data such as grades or attendance, one day a classmate asked me to change a grade because to pass the subject that gave me a remuneration, I did not do it and my classmate was angry but my teacher congratulated me for the transparencia I handled on the subject and respect my position.
-
-I learned more about the frameworks and it opened my mind about the playbook to know how to carry out a series of instructions to carry out certain prevention or actions depending on the situation in which one finds oneself.   
