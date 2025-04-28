@@ -35,24 +35,12 @@
             "id": "f069f2de4ff21da6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Defensa en la red mintic/Modulo 2/Module 2 laboratory IoT.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "IMGS/Pasted image 20250427193636.png"
               },
-              "icon": "lucide-file",
-              "title": "Module 2 laboratory IoT"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250427193636"
             }
           }
         ],
@@ -195,22 +183,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f069f2de4ff21da6",
+  "active": "eb8ebe82018e27b5",
   "lastOpenFiles": [
-    "Pasted image 20250427201842.png",
-    "Pasted image 20250427201759.png",
-    "Pasted image 20250427201516.png",
-    "Pasted image 20250427201328.png",
-    "Pasted image 20250427201041.png",
-    "Pasted image 20250427201025.png",
-    "Pasted image 20250427200754.png",
-    "Pasted image 20250427200711.png",
-    "Pasted image 20250427200442.png",
-    "Pasted image 20250427200248.png",
-    "Pasted image 20250427194817.png",
-    "Embedded and specialized systems.md",
-    "Defensa en la red mintic/Modulo 2/Module 2 laboratory IoT.md",
+    "Defensa en la red mintic/Modulo 2/Embedded and specialized systems.md",
     "Defensa en la red mintic/Modulo 2/Resilience of cybersecurity.md",
+    "IMGS/Pasted image 20250427193636.png",
+    "Defensa en la red mintic/Modulo 2/Module 2 laboratory IoT.md",
+    "IMGS/Pasted image 20250427201842.png",
+    "IMGS/Pasted image 20250427201759.png",
+    "IMGS/Pasted image 20250427201516.png",
+    "IMGS/Pasted image 20250427201328.png",
+    "IMGS/Pasted image 20250427201041.png",
+    "IMGS/Pasted image 20250427201025.png",
+    "IMGS/Pasted image 20250427200754.png",
+    "IMGS/Pasted image 20250427200711.png",
+    "IMGS/Pasted image 20250427200442.png",
     "Defensa en la red mintic/Modulo 2/Protection of mobile and wireless devices.md",
     "Defensa en la red mintic/Modulo 2/Physical security.md",
     "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
