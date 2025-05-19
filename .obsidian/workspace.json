@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c1dfea81431fc591",
+        "id": "5f9daac323a19fae",
         "type": "tabs",
         "children": [
           {
-            "id": "1ede5bed52df11a4",
+            "id": "3bb8168881a27105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defensa en la red mintic/Modulo 2/Resilience of cybersecurity.md",
+                "file": "Hack4io/Comandos linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Resilience of cybersecurity"
+              "title": "Comandos linux"
             }
           },
           {
-            "id": "f069f2de4ff21da6",
+            "id": "7497619c0f3cbdbf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMGS/Pasted image 20250427193636.png"
+                "file": "Ruta.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250427193636"
+              "icon": "lucide-file",
+              "title": "Ruta"
             }
           }
         ],
@@ -67,7 +79,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -175,54 +187,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "eb8ebe82018e27b5",
+  "active": "7497619c0f3cbdbf",
   "lastOpenFiles": [
-    "Defensa en la red mintic/Modulo 2/Embedded and specialized systems.md",
-    "Defensa en la red mintic/Modulo 2/Resilience of cybersecurity.md",
-    "IMGS/Pasted image 20250427193636.png",
-    "Defensa en la red mintic/Modulo 2/Module 2 laboratory IoT.md",
-    "IMGS/Pasted image 20250427201842.png",
-    "IMGS/Pasted image 20250427201759.png",
-    "IMGS/Pasted image 20250427201516.png",
-    "IMGS/Pasted image 20250427201328.png",
-    "IMGS/Pasted image 20250427201041.png",
-    "IMGS/Pasted image 20250427201025.png",
-    "IMGS/Pasted image 20250427200754.png",
-    "IMGS/Pasted image 20250427200711.png",
-    "IMGS/Pasted image 20250427200442.png",
-    "Defensa en la red mintic/Modulo 2/Protection of mobile and wireless devices.md",
-    "Defensa en la red mintic/Modulo 2/Physical security.md",
-    "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
-    "Defensa en la red mintic/Modulo 2/Network tightening Services and protocols.md",
-    "Defensa en la red mintic/Modulo 2/Intrusion detection and prevention systems.md",
-    "Defensa en la red mintic/Modulo 2/Application development.md",
-    "Defensa en la red mintic/Firewall.md",
-    "Defensa en la red mintic/Laboratory Module 2.md",
     "Hack4io/Comandos linux.md",
+    "Ruta.md",
     "Cybersecurity/Notes.md",
     "Hack4io/Cracking Tool password.md",
+    "IMGS/Pasted image 20240805211600.png",
+    "IMGS/Pasted image 20240805223507.png",
+    "IMGS/Pasted image 20240805210809.png",
     "Labs/safety configuration and protection of the wireless router.md",
+    "Pasted image 20250331151913.png",
+    "Pasted image 20250331152212.png",
+    "Pasted image 20250331155228.png",
+    "Pasted image 20250331101307.png",
     "Cybersecurity/Modulo 4/SQL/Colsubsidio pruebas conexion VPN.md",
+    "Pasted image 20250331134811.png",
+    "Pasted image 20250331130251.png",
+    "Pasted image 20250331115333.png",
     "Cybersecurity/Modulo 4/SQL/Databases and SQL.md",
     "Cybersecurity/Modulo 4/SQL/SQL 2.md",
     "Cybersecurity/Modulo 4/SQL",
     "Cybersecurity/Modulo 4/Usuarios.md",
     "Cybersecurity/Modulo 4/Shell linux.md",
     "Cybersecurity/Modulo 4/Permisos Linux.md",
+    "Defensa en la red mintic/Modulo 2/Resilience of cybersecurity.md",
+    "Defensa en la red mintic/Modulo 2/Protection of mobile and wireless devices.md",
+    "Defensa en la red mintic/Modulo 2/Intrusion detection and prevention systems.md",
+    "Defensa en la red mintic/Modulo 2/Application development.md",
+    "Defensa en la red mintic/Laboratory Module 2.md",
     "To Do list.md",
     "README.md",
     "Labs",
+    "Defensa en la red mintic/Modulo 2/Physical security.md",
+    "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
     "Tools",
     "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
     "Personal/Ikigai....md",
+    "Defensa en la red mintic/Firewall.md",
+    "Defensa en la red mintic/Modulo 1/Company policies/Security police.md",
+    "Defensa en la red mintic/Modulo 1/Company policies/Regulatory and Standards Compliance.md",
+    "Defensa en la red mintic/Modulo 1/Quizz Module 1.md",
     "Defensa en la red mintic/Modulo 2"
   ]
 }
