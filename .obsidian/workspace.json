@@ -130,7 +130,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -221,23 +221,27 @@
   },
   "active": "21103e9ce2443e2c",
   "lastOpenFiles": [
+    "IMGS/Pasted image 20250427201842.png",
+    "IMGS/Pasted image 20250427201759.png",
+    "IMGS/Pasted image 20250427201516.png",
+    "IMGS/Pasted image 20250427201328.png",
+    "IMGS/Pasted image 20250427201041.png",
+    "IMGS/Pasted image 20250427201025.png",
+    "IMGS/Pasted image 20250427200754.png",
+    "IMGS/Pasted image 20250427200711.png",
+    "IMGS/Pasted image 20250427200442.png",
+    "IMGS/Pasted image 20250427200248.png",
+    "IMGS/Pasted image 20250427194817.png",
+    "Defensa en la red mintic/Modulo 2/Network tightening Services and protocols.md",
+    "Defensa en la red mintic/Modulo 2/Module 2 laboratory IoT.md",
+    "Defensa en la red mintic/Modulo 2/Embedded and specialized systems.md",
     "Etapas.md",
     "Ruta.md",
     "Hack4io/Comandos linux.md",
     "Cybersecurity/Notes.md",
     "Hack4io/Cracking Tool password.md",
-    "IMGS/Pasted image 20240805211600.png",
-    "IMGS/Pasted image 20240805223507.png",
-    "IMGS/Pasted image 20240805210809.png",
     "Labs/safety configuration and protection of the wireless router.md",
-    "Pasted image 20250331151913.png",
-    "Pasted image 20250331152212.png",
-    "Pasted image 20250331155228.png",
-    "Pasted image 20250331101307.png",
     "Cybersecurity/Modulo 4/SQL/Colsubsidio pruebas conexion VPN.md",
-    "Pasted image 20250331134811.png",
-    "Pasted image 20250331130251.png",
-    "Pasted image 20250331115333.png",
     "Cybersecurity/Modulo 4/SQL/Databases and SQL.md",
     "Cybersecurity/Modulo 4/SQL/SQL 2.md",
     "Cybersecurity/Modulo 4/SQL",
@@ -256,10 +260,6 @@
     "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
     "Tools",
     "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
-    "Personal/Ikigai....md",
-    "Defensa en la red mintic/Firewall.md",
-    "Defensa en la red mintic/Modulo 1/Company policies/Security police.md",
-    "Defensa en la red mintic/Modulo 1/Company policies/Regulatory and Standards Compliance.md",
     "Defensa en la red mintic/Modulo 2"
   ]
 }

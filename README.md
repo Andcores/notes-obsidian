@@ -8,3 +8,4 @@ Los títulos de cada modulo de cursos irán en ingles para agregar vocabulario b
 
 
 
+debolucionesSi puedes realizar las devoluciones con lo de la moneda de 1 euro porfa se la puedes cambiar al paciente por la moneda que era de 500 y las personas de Trasporte de Valores les colaboraran con el cambio de esta
