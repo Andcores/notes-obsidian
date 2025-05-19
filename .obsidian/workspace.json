@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Ruta"
             }
+          },
+          {
+            "id": "21103e9ce2443e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8b82a1e3caff6ea2",
@@ -195,10 +219,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7497619c0f3cbdbf",
+  "active": "21103e9ce2443e2c",
   "lastOpenFiles": [
-    "Hack4io/Comandos linux.md",
+    "Etapas.md",
     "Ruta.md",
+    "Hack4io/Comandos linux.md",
     "Cybersecurity/Notes.md",
     "Hack4io/Cracking Tool password.md",
     "IMGS/Pasted image 20240805211600.png",
@@ -235,7 +260,6 @@
     "Defensa en la red mintic/Firewall.md",
     "Defensa en la red mintic/Modulo 1/Company policies/Security police.md",
     "Defensa en la red mintic/Modulo 1/Company policies/Regulatory and Standards Compliance.md",
-    "Defensa en la red mintic/Modulo 1/Quizz Module 1.md",
     "Defensa en la red mintic/Modulo 2"
   ]
 }

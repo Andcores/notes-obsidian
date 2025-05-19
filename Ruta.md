@@ -119,4 +119,3 @@ Aprender los principios básicos de la ciberseguridad y construir una base sóli
 ### Semana 4:
 - Prácticas con herramientas: Metasploit, Burp
 - Comienzo de hardening en Linux
-
