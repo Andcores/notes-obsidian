@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "ba513a0e479ebec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c06eb7f0e821ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c5c35aa5b376c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do list.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "To Do list"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c997ea2c8962e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8a55361be3c2dd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4a562075e3ab7f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d043e9fd3ad37434",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f0875a632513b204",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ada98538ab3210cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0e1211c63292adc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3009e814ee2cb67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de TCP-IP"
+            }
+          },
+          {
+            "id": "814e547c76981384",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de TCP-IP"
+            }
+          },
+          {
+            "id": "86889368f52bf3ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d39637771be6fca3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de TCP-IP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3c5c35aa5b376c6f",
+  "lastOpenFiles": [
+    "Ruta.md",
+    "README.md",
+    "important notes.md",
+    "Etapas.md",
+    "Hacker Mentor/Payloads.md",
+    "NMAP.md",
+    "Hacker Mentor/Phases of Ethical hacking.md",
+    "Hacker Mentor/Untitled.md",
+    "Hack4io/Scrip descompressor.md",
+    "Hack4io/OVERTHEWIRE.md",
+    "Hack4io/HostScanScrip.md",
+    "Hack4io/Directories Structure.md",
+    "Hack4io/Cracking Tool password.md",
+    "Hack4io/Control de atributos de ficheros chattr lsattr.md",
+    "Hack4io/Comandos linux.md",
+    "Hack4io/Capabilities.md",
+    "Hack4io/Búsquedas a nivel de sistema.md",
+    "Hack4io/BASHRC  & ZSHRC.md",
+    "Hack4io/Asignación de permisos.md",
+    "Cybersecurity/6/Untitled/Equipos de Respuesta a Incidentes de Seguridad (CSIRT).md",
+    "Cybersecurity/6/Untitled/Functions in the response.md",
+    "IMGS/Pasted image 20241024122707.png",
+    "IMGS/Pasted image 20241102233526.png",
+    "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
+    "Cybersecurity/6/Untitled",
+    "Cybersecurity/6",
+    "Cybersecurity/5 Assets threats and vulnerabilities/vulnerabilities in the systems/OWASP.md",
+    "Cybersecurity/5 Assets threats and vulnerabilities/vulnerabilities in the systems/Inteligencia de fuentes abiertas.md",
+    "Cybersecurity/5 Assets threats and vulnerabilities/Security of resources/Understand Risk threats and vulnerabilities.md",
+    "Cybersecurity/5 Assets threats and vulnerabilities/Security of resources/Security Guidelines in action.md",
+    "Cybersecurity/5 Assets threats and vulnerabilities/vulnerabilities in the systems",
+    "Cybersecurity/5 Assets threats and vulnerabilities/Security of resources",
+    "Cybersecurity/5 Assets threats and vulnerabilities/Untitled 2",
+    "Cybersecurity/5 Assets threats and vulnerabilities/protecting the organization's resources",
+    "Cybersecurity/5 Assets threats and vulnerabilities",
+    "Cybersecurity/2 Play it safe MSR/module 3",
+    "Cybersecurity/2 Play it safe MSR/module 4",
+    "Cybersecurity/2 Play it safe MSR/module 2",
+    "IMGS/Pasted image 20241023151800.png",
+    "IMGS/Pasted image 20241023151027.png",
+    "IMGS/Pasted image 20241021225029.png",
+    "IMGS/Pasted image 20241021222303.png",
+    "IMGS/Pasted image 20241021222104.png",
+    "IMGS/Pasted image 20241021221423.png",
+    "IMGS/Pasted image 20241021220820.png",
+    "IMGS/Pasted image 20241021214934.png"
+  ]
+}
