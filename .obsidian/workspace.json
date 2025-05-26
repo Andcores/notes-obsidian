@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do list.md",
+                "file": "Defensa en la red mintic/Firewall.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "To Do list"
+              "title": "Firewall"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "3c5c35aa5b376c6f",
   "lastOpenFiles": [
+    "To Do list.md",
     "Ruta.md",
     "README.md",
     "important notes.md",
@@ -209,7 +210,6 @@
     "Cybersecurity/5 Assets threats and vulnerabilities/vulnerabilities in the systems/OWASP.md",
     "Cybersecurity/5 Assets threats and vulnerabilities/vulnerabilities in the systems/Inteligencia de fuentes abiertas.md",
     "Cybersecurity/5 Assets threats and vulnerabilities/Security of resources/Understand Risk threats and vulnerabilities.md",
-    "Cybersecurity/5 Assets threats and vulnerabilities/Security of resources/Security Guidelines in action.md",
     "Cybersecurity/5 Assets threats and vulnerabilities/vulnerabilities in the systems",
     "Cybersecurity/5 Assets threats and vulnerabilities/Security of resources",
     "Cybersecurity/5 Assets threats and vulnerabilities/Untitled 2",

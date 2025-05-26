@@ -4,11 +4,11 @@ Este se encarga de controlar o filtrar que comunicaciones se permiten dentro y c
 Filtra comunicaciones según las direcciones IP de origen y destino.
 ### Firewall capa de trasporte
 
-Filtra las comunicaciones según los puertos de datos de origen y destino, asi como los estados de conexión .
+Filtra las comunicaciones según los puertos de datos de origen y destino, así como los estados de conexión .
 
 ### Firewall capa aplicación
 
-Filtra las comunicaciones en funcion de la aplicacion, programa o servicio.
+Filtra las comunicaciones en función de la aplicacion, programa o servicio.
 
 ### Firewall capa sensible al texto 
 
