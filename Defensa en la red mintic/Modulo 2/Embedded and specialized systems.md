@@ -88,7 +88,7 @@ Por otro lado, los "honeyfiles" son archivos falsos que se colocan estratégicam
 
 Un "DNS sinkhole" es una herramienta de seguridad que impide que los nombres de los sitios web (nombres de host) se traduzcan a sus direcciones IP correspondientes para ciertas URLs específicas. Al hacer esto, evita que los usuarios accedan a recursos maliciosos en internet.
 
-n **DNS sinkhole** interfiere con este proceso para ciertas direcciones web que se consideran peligrosas. En lugar de devolver la dirección IP real del sitio malicioso, el DNS sinkhole puede hacer una de estas cosas:
+**DNS sinkhole** interfiere con este proceso para ciertas direcciones web que se consideran peligrosas. En lugar de devolver la dirección IP real del sitio malicioso, el DNS sinkhole puede hacer una de estas cosas:
 
 - **No devolver ninguna dirección IP:** Esto hace que el navegador no pueda encontrar el servidor y muestre un error.
 - **Devolver una dirección IP falsa:** Esta dirección IP podría llevar al usuario a un servidor controlado por la organización, donde se le informa que el sitio al que intentaba acceder es peligroso, o simplemente a una página en blanco. 

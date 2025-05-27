@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruta.md",
-                "mode": "preview",
+                "file": "Defensa en la red mintic/Modulo 3/3.1 Access Controls.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ruta"
+              "title": "3.1 Access Controls"
             }
           }
         ],
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.50260543823242
   },
   "right": {
     "id": "8b82a1e3caff6ea2",
@@ -197,6 +197,21 @@
   },
   "active": "7497619c0f3cbdbf",
   "lastOpenFiles": [
+    "Defensa en la red mintic/Modulo 3/importance of the module.md",
+    "Defensa en la red mintic/Modulo 3/3.1 Access Controls.md",
+    "Pasted image 20250526203951.png",
+    "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
+    "Defensa en la red mintic/Modulo 3",
+    "Defensa en la red mintic/Modulo 2/Embedded and specialized systems.md",
+    "Defensa en la red mintic/Modulo 2/Protection of mobile and wireless devices.md",
+    "Defensa en la red mintic/Modulo 2/Resilience of cybersecurity.md",
+    "Defensa en la red mintic/Modulo 2/Physical security.md",
+    "Defensa en la red mintic/Modulo 2/Intrusion detection and prevention systems.md",
+    "Defensa en la red mintic/Modulo 2/Module 2 laboratory IoT.md",
+    "Defensa en la red mintic/Firewall.md",
+    "Defensa en la red mintic/Modulo 2/Network tightening Services and protocols.md",
+    "Defensa en la red mintic/Modulo 2/Application development.md",
+    "Ruta.md",
     "Cybersecurity/Networks and Network Security/Modulo 1/OSI.md",
     "important notes.md",
     "IMGS/Pasted image 20241102233526.png",
@@ -208,7 +223,6 @@
     "IMGS/Pasted image 20241021222104.png",
     "IMGS/Pasted image 20241021221423.png",
     "IMGS/Pasted image 20241021220820.png",
-    "IMGS/Pasted image 20241021214934.png",
     "Hacker Mentor/Reto 2/Eternal.md",
     "Hacker Mentor/Reto 1/Kio.md",
     "Hacker Mentor/Reto 0/Reconocimiento pasivo.md",
@@ -224,19 +238,6 @@
     "Hack4io/Directories Structure.md",
     "Hack4io/Control de atributos de ficheros chattr lsattr.md",
     "Hack4io/Capabilities.md",
-    "Hack4io/Búsquedas a nivel de sistema.md",
-    "Hack4io/BASHRC  & ZSHRC.md",
-    "Hack4io/Asignación de permisos.md",
-    "Cybersecurity/Networks and Network Security/Modulo 1/Networks.md",
-    "Cybersecurity/Networks and Network Security/Modulo 1/Network Comunication.md",
-    "Cybersecurity/Modulo 4/Permisos Linux.md",
-    "Cybersecurity/Modulo 4/SQL/Databases and SQL.md",
-    "Cybersecurity/Modulo 4/OS/Operative systems.md",
-    "Etapas.md",
-    "README.md",
-    "Ruta.md",
-    "To Do list.md",
-    "Labs/safety configuration and protection of the wireless router.md",
     "Cybersecurity/Modulo 4/SQL",
     "Labs",
     "Tools",

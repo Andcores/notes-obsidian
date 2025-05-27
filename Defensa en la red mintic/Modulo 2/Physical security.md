@@ -25,13 +25,13 @@ Factores en los biometricos
 * confiabilidad
 * resistencia a la falsificacion 
 * requisitos de almacenamiento de datos
-* tipo ed inscripcion
-* intrusividad del analisis
+* tipo ed inscripción
+* intrusividad del análisis
 
 #### Error tipo 1 
 Tipo I o falso rechazo. El error de Tipo I rechaza a una persona que se registra y es un usuario autorizado. Este busca tener alejados a los ciberdelincuentes 
 #### Error tipo 2
-Tipo I o falso rechazo. El error de Tipo I rechaza a una persona que se registra y es un usuario autorizado
+La falsa aceptación es un Error de tipo II. Los errores de Tipo II permiten la entrada a personas que no deben tener acceso, lo que significa que un ciberdelincuente puede obtener acceso. Por esta razón, los errores de tipo II se consideran normalmente el error más importante para un sistema de control de acceso biométrico.
 ### Identification cards and access logs
 
 Las tarjetas de identificacion son dadas a ciertas personas usualmente estas tienen ciertos limitantes de entrada a ciertas zonas de las organizaciones dependiendo la organizacion, el nivel de seguridad y cargo de estas personas a la cual son dadas "Esto seria ideal para mantener el concepto del privilegio minimo"
