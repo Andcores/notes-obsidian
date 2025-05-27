@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "ba513a0e479ebec0",
+    "id": "130619a26c5c97cc",
     "type": "split",
     "children": [
       {
-        "id": "1c06eb7f0e821ae1",
+        "id": "5f9daac323a19fae",
         "type": "tabs",
         "children": [
           {
-            "id": "3c5c35aa5b376c6f",
+            "id": "3bb8168881a27105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defensa en la red mintic/Firewall.md",
+                "file": "Hack4io/Comandos linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,24 +28,49 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Firewall"
+              "title": "Comandos linux"
+            }
+          },
+          {
+            "id": "7497619c0f3cbdbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruta.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ruta"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0c997ea2c8962e4d",
+    "id": "5ba273f8f9638636",
     "type": "split",
     "children": [
       {
-        "id": "c8a55361be3c2dd8",
+        "id": "bc346d730eb5b19e",
         "type": "tabs",
         "children": [
           {
-            "id": "c4a562075e3ab7f5",
+            "id": "eb8ebe82018e27b5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,11 +79,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "d043e9fd3ad37434",
+            "id": "e8ae447e1147121b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,11 +96,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "f0875a632513b204",
+            "id": "14dc36f0e5f65cad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,23 +113,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "ada98538ab3210cd",
+    "id": "8b82a1e3caff6ea2",
     "type": "split",
     "children": [
       {
-        "id": "e0e1211c63292adc",
+        "id": "dc64169091d19b41",
         "type": "tabs",
         "children": [
           {
-            "id": "f3009e814ee2cb67",
+            "id": "beec920ca03f264e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,54 +138,47 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de TCP-IP"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "814e547c76981384",
+            "id": "19dcd70920e66c06",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de TCP-IP"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "86889368f52bf3ab",
+            "id": "e39cf3fcc1b4a22c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
-            "id": "d39637771be6fca3",
+            "id": "72054b96682b86a4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Esquema de TCP-IP"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,54 +187,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3c5c35aa5b376c6f",
+  "active": "7497619c0f3cbdbf",
   "lastOpenFiles": [
-    "To Do list.md",
-    "Ruta.md",
-    "README.md",
+    "Cybersecurity/Networks and Network Security/Modulo 1/OSI.md",
     "important notes.md",
-    "Etapas.md",
-    "Hacker Mentor/Payloads.md",
-    "NMAP.md",
-    "Hacker Mentor/Phases of Ethical hacking.md",
-    "Hacker Mentor/Untitled.md",
-    "Hack4io/Scrip descompressor.md",
-    "Hack4io/OVERTHEWIRE.md",
-    "Hack4io/HostScanScrip.md",
-    "Hack4io/Directories Structure.md",
-    "Hack4io/Cracking Tool password.md",
-    "Hack4io/Control de atributos de ficheros chattr lsattr.md",
-    "Hack4io/Comandos linux.md",
-    "Hack4io/Capabilities.md",
-    "Hack4io/Búsquedas a nivel de sistema.md",
-    "Hack4io/BASHRC  & ZSHRC.md",
-    "Hack4io/Asignación de permisos.md",
-    "Cybersecurity/6/Untitled/Equipos de Respuesta a Incidentes de Seguridad (CSIRT).md",
-    "Cybersecurity/6/Untitled/Functions in the response.md",
-    "IMGS/Pasted image 20241024122707.png",
     "IMGS/Pasted image 20241102233526.png",
-    "Cybersecurity/Networks and Network Security/Modulo 1/TCP-IP.md",
-    "Cybersecurity/6/Untitled",
-    "Cybersecurity/6",
-    "Cybersecurity/5 Assets threats and vulnerabilities/vulnerabilities in the systems/OWASP.md",
-    "Cybersecurity/5 Assets threats and vulnerabilities/vulnerabilities in the systems/Inteligencia de fuentes abiertas.md",
-    "Cybersecurity/5 Assets threats and vulnerabilities/Security of resources/Understand Risk threats and vulnerabilities.md",
-    "Cybersecurity/5 Assets threats and vulnerabilities/vulnerabilities in the systems",
-    "Cybersecurity/5 Assets threats and vulnerabilities/Security of resources",
-    "Cybersecurity/5 Assets threats and vulnerabilities/Untitled 2",
-    "Cybersecurity/5 Assets threats and vulnerabilities/protecting the organization's resources",
-    "Cybersecurity/5 Assets threats and vulnerabilities",
-    "Cybersecurity/2 Play it safe MSR/module 3",
-    "Cybersecurity/2 Play it safe MSR/module 4",
-    "Cybersecurity/2 Play it safe MSR/module 2",
+    "IMGS/Pasted image 20241024122707.png",
     "IMGS/Pasted image 20241023151800.png",
     "IMGS/Pasted image 20241023151027.png",
     "IMGS/Pasted image 20241021225029.png",
@@ -225,6 +208,38 @@
     "IMGS/Pasted image 20241021222104.png",
     "IMGS/Pasted image 20241021221423.png",
     "IMGS/Pasted image 20241021220820.png",
-    "IMGS/Pasted image 20241021214934.png"
+    "IMGS/Pasted image 20241021214934.png",
+    "Hacker Mentor/Reto 2/Eternal.md",
+    "Hacker Mentor/Reto 1/Kio.md",
+    "Hacker Mentor/Reto 0/Reconocimiento pasivo.md",
+    "Hacker Mentor/Reto 2",
+    "Hacker Mentor/Reto 1",
+    "Hacker Mentor/Reto 0",
+    "Hacker Mentor/Phases of Ethical hacking.md",
+    "Hacker Mentor/Payloads.md",
+    "Hacker Mentor",
+    "Hack4io/Scrip descompressor.md",
+    "Hack4io/OVERTHEWIRE.md",
+    "Hack4io/HostScanScrip.md",
+    "Hack4io/Directories Structure.md",
+    "Hack4io/Control de atributos de ficheros chattr lsattr.md",
+    "Hack4io/Capabilities.md",
+    "Hack4io/Búsquedas a nivel de sistema.md",
+    "Hack4io/BASHRC  & ZSHRC.md",
+    "Hack4io/Asignación de permisos.md",
+    "Cybersecurity/Networks and Network Security/Modulo 1/Networks.md",
+    "Cybersecurity/Networks and Network Security/Modulo 1/Network Comunication.md",
+    "Cybersecurity/Modulo 4/Permisos Linux.md",
+    "Cybersecurity/Modulo 4/SQL/Databases and SQL.md",
+    "Cybersecurity/Modulo 4/OS/Operative systems.md",
+    "Etapas.md",
+    "README.md",
+    "Ruta.md",
+    "To Do list.md",
+    "Labs/safety configuration and protection of the wireless router.md",
+    "Cybersecurity/Modulo 4/SQL",
+    "Labs",
+    "Tools",
+    "Defensa en la red mintic/Modulo 2"
   ]
 }
