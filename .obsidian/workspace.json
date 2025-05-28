@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bb8168881a27105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hack4io/Comandos linux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Comandos linux"
-            }
-          },
-          {
             "id": "7497619c0f3cbdbf",
             "type": "leaf",
             "state": {
@@ -55,8 +31,7 @@
               "title": "3.1 Access Controls"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,6 +174,7 @@
   "lastOpenFiles": [
     "Defensa en la red mintic/Modulo 3/importance of the module.md",
     "Defensa en la red mintic/Modulo 3/3.1 Access Controls.md",
+    "Hack4io/Comandos linux.md",
     "Pasted image 20250526203951.png",
     "Defensa en la red mintic/Modulo 2/Network tightening  Segmentation.md",
     "Defensa en la red mintic/Modulo 3",
@@ -237,7 +213,6 @@
     "Hack4io/HostScanScrip.md",
     "Hack4io/Directories Structure.md",
     "Hack4io/Control de atributos de ficheros chattr lsattr.md",
-    "Hack4io/Capabilities.md",
     "Cybersecurity/Modulo 4/SQL",
     "Labs",
     "Tools",
